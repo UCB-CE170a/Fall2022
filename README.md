@@ -10,3 +10,8 @@ This Github repository holds the Python-related exercises, quizzes, and assignme
   * Day4: Taylor series, Newton-Ralphson method with Python
   * Day5: Data Handling using Pandas
   * Day6: Introduction of the Numpy library; linear algebra with Numpy 
+
+
+### Quizzes
+- [Quizzes](Quizzes): 
+  * Quiz 2: [Model Bridge Simulation using TrussPy] (https://github.com/UCB-CE170a/Fall2022/tree/main/Quizzes/Quiz2)
