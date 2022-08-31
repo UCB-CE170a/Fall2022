@@ -13,5 +13,4 @@ This Github repository holds the Python-related exercises, quizzes, and assignme
 
 
 ### Quizzes
-- [Quizzes](Quizzes): 
   * Quiz 2: [Model Bridge Simulation using TrussPy](https://github.com/UCB-CE170a/Fall2022/tree/main/Quizzes/Quiz2)
