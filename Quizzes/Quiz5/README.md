@@ -24,4 +24,4 @@ Save the output to a csv file titled `quiz5_yourname.csv` and submit it. The fir
 
 Click the icon below to start:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UCB-CE170a/Fall2022/blob/master/Quizzes/Quiz5/quiz5_student.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UCB-CE170a/Fall2022/blob/main/Quizzes/Quiz5/quiz5_student.ipynb)
