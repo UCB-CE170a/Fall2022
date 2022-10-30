@@ -4,8 +4,8 @@
 
 In this assignment, you are given a hypothetical Berkeley Hills fire scenario. Your task is to find the suitable streets for contraflow so that more people can get out of the danger in less time. You can evaluate the base scenario (no contraflow) and your contraflow strategies by running a spatial queue-based dynamic traffic assignment code provided to you. All together, we have prepared the following codes/inputs for you: 
 * a code starter of the spatial queue model: follow the link at the bottome of the page to access the code on colab.
-* a base network inputs file: [berkeley_links.csv](https://raw.githubusercontent.com/UCB-CE170a/Fall2022/main/traffic_data/berkeley_links.csv) and [berkeley_nodes.csv](https://raw.githubusercontent.com/UCB-CE170a/Fall2021/master/traffic_data/berkeley_nodes.csv). These are the original road network without contraflow.
-* od inputs file: [day_time_od.csv](https://raw.githubusercontent.com/UCB-CE170a/Fall2022/main/traffic_data/day_time_od.csv) and [night_time_od.csv](https://raw.githubusercontent.com/UCB-CE170a/Fall2021/master/traffic_data/night_time_od.csv). These travel demand files are generated from parcel maps in Berkeley and reflects the fluctuations in the numbers of vehicles in the affected area during day times and night times. Alternatively, for your exploration (not required for the assignment), you can also use [od_10pn.csv](https://raw.githubusercontent.com/UCB-CE170a/Fall2021/master/traffic_data/od_10pn.csv), [od_50pn.csv](https://raw.githubusercontent.com/UCB-CE170a/Fall2021/master/traffic_data/od_50pn.csv) or [od_100pn.csv](https://raw.githubusercontent.com/UCB-CE170a/Fall2021/master/traffic_data/od_100pn.csv) to test the outcomes with lower or higher overall numbers of vehicles under a uniform numbers of vehicles per node. 
+* a base network inputs file: [berkeley_links.csv](https://raw.githubusercontent.com/UCB-CE170a/Fall2022/main/traffic_data/berkeley_links.csv) and [berkeley_nodes.csv](https://raw.githubusercontent.com/UCB-CE170a/Fall2022/main/traffic_data/berkeley_nodes.csv). These are the original road network without contraflow.
+* od inputs file: [day_time_od.csv](https://raw.githubusercontent.com/UCB-CE170a/Fall2022/main/traffic_data/day_time_od.csv) and [night_time_od.csv](https://raw.githubusercontent.com/UCB-CE170a/Fall2022/main/traffic_data/night_time_od.csv). These travel demand files are generated from parcel maps in Berkeley and reflects the fluctuations in the numbers of vehicles in the affected area during day times and night times. Alternatively, for your exploration (not required for the assignment), you can also use [od_10pn.csv](https://raw.githubusercontent.com/UCB-CE170a/Fall2022/main/traffic_data/od_10pn.csv), [od_50pn.csv](https://raw.githubusercontent.com/UCB-CE170a/Fall2022/main/traffic_data/od_50pn.csv) or [od_100pn.csv](https://raw.githubusercontent.com/UCB-CE170a/Fall2022/main/traffic_data/od_100pn.csv) to test the outcomes with lower or higher overall numbers of vehicles under a uniform numbers of vehicles per node. 
 
 ## Study area
 
@@ -57,11 +57,11 @@ Upload `contraflow_links_[yourname].csv` under the `traffic_inputs` folder. Run 
 
 ## Submission
 Your submissions consist of two parts:
-1. October 19, 11:59 pm PDT: 
+1. November 14th, 11:59 pm PDT: 
     * A CSV file, titled `contraflow_links_[yourname].csv` that reflects the changes in the network according your contraflow strategy.
     * Time stepped arrival counts: `t_stats_base_[yourname].csv` and `t_stats_contraflow_[yourname].csv`. These are outputs from the simulation code.
     * Some text justifying your selection of contraflow locations.
-2. October 28, 11:59 pm PDT:
+2. DATE TBA:
     * Report. Since the report will be due after we have reviewed the contraflow locations and results of the whole class, it is okay to update your contraflow locations in the report compared to what you submitted on October 19. The report should include at least the following parts:
       * Introduction
       * Model description and assumptions
