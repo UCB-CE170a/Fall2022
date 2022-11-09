@@ -79,4 +79,4 @@ You will be evaluated mostly by the following criteria:
 
 Click the icon below to start:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UCB-CE170a/Fall2022/blob/main/Quizzes/Quiz6/Fall2022_Quiz6_student.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UCB-CE170a/Fall2022/blob/main/Quizzes/Quiz6/Fall2022_Quiz6_student_2.ipynb)
