@@ -62,7 +62,7 @@ Your submissions consist of two parts:
     * Time stepped arrival counts: `t_stats_base_[yourname].csv` and `t_stats_contraflow_[yourname].csv`. These are outputs from the simulation code.
     * Some text justifying your selection of contraflow locations.
 2. DATE TBA:
-    * Report. Since the report will be due after we have reviewed the contraflow locations and results of the whole class, it is okay to update your contraflow locations in the report compared to what you submitted on October 19. The report should include at least the following parts:
+    * Report. Since the report will be due after we have reviewed the contraflow locations and results of the whole class, it is okay to update your contraflow locations in the report compared to what you submitted on November 14. The report should include at least the following parts:
       * Introduction
       * Model description and assumptions
       * Description of your strategy and results. The result section should include at least a map, potentially more, showing the queueing status at certain time step and scenario (with legned, scale, north arrow, title, and background map). You are encouraged, though not required, to change the code to test, e.g., the impact of rerouting, higher demand or staged evacuation and include the findings in your report.
