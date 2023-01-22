@@ -14,3 +14,9 @@ This Github repository holds the Python-related exercises, quizzes, and assignme
 
 ### Quizzes
   * Quiz 2: [Model Bridge Simulation using TrussPy](https://github.com/UCB-CE170a/Fall2022/tree/main/Quizzes/Quiz2)
+  * Quiz 5: [All-or-nothing Traffic Assignment](https://github.com/UCB-CE170a/Fall2022/tree/main/Quizzes/Quiz5)
+  * Quiz 6: [Wildfire Evacuation in North Berkeley](https://github.com/UCB-CE170a/Fall2022/tree/main/Quizzes/Quiz6)
+  
+### Homework
+  * Homework 2: [Model Bridge Experiment Data Analysis](https://github.com/UCB-CE170a/Fall2022/tree/main/Homework/Homework2)
+  * Homework 4: [Surface-wave Field Data Analysis](https://github.com/UCB-CE170a/Fall2022/tree/main/Homework/Homework4)
